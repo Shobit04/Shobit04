@@ -168,7 +168,7 @@ class ShobitGupta:
   <a href="mailto:shobit.g456@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1To-WqGw0M9uXQnTN0ZU1LaR7YtsycrVx/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1VOB2hWHB7uHLcErMg3q4jarkqfsvOBks/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </div>
