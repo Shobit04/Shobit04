@@ -97,12 +97,62 @@ class ShobitGupta:
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48a4c.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobit04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shobit04&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shobit04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="Top Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobit04&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=ffffff&sideLabels=00D9FF&dates=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shobit04&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobit04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&ring_color=00D9FF&fire_color=FF6B6B" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shobit04&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobit04&theme=radical&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> Coding Stats & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br>
+        <strong>🎯 Focus Areas</strong><br>
+        <em>AI/ML Development</em><br>
+        <em>Healthcare Solutions</em><br>
+        <em>Data Science</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br>
+        <strong>💻 Active in</strong><br>
+        <em>Python Ecosystem</em><br>
+        <em>Web Development</em><br>
+        <em>AI Research</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+        <strong>🚀 Building</strong><br>
+        <em>Innovative Solutions</em><br>
+        <em>Open Source</em><br>
+        <em>Future Tech</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Coding!&fontSize=40&fontColor=fff&animation=twinkling" />
 </div>
 
 <div align="center">
