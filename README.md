@@ -162,7 +162,7 @@ class ShobitGupta:
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/shobit-gupta" target="_blank">
+  <a href="https://linkedin.com/in/shobit-gupta04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
   </a>
   <a href="mailto:shobit.g456@gmail.com" target="_blank">
